@@ -3,3 +3,5 @@
 * Basic Operations
 * Colorspaces
 * Blurring
+* Tresholding
+* Edge detection
