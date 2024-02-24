@@ -5,3 +5,4 @@
 * Blurring
 * Tresholding
 * Edge detection
+* Contours
